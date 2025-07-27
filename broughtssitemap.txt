@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url><loc>https://broughttohelp.com/</loc></url>
+
+  <url><loc>https://broughttohelp.com/techgadgets</loc></url>
+
+  <url><loc>https://broughttohelp.com/lovebirds</loc></url>
+
+  <url><loc>https://broughttohelp.com/gofish</loc></url>
+
+  <url><loc>https://broughttohelp.com/greenthumb</loc></url>
+
+  <url><loc>https://broughttohelp.com/littleones</loc></url>
+
+  <url><loc>https://broughttohelp.com/vroomvroom</loc></url>
+
+  <url><loc>https://broughttohelp.com/cookingitup</loc></url>
+
+  <url><loc>https://broughttohelp.com/safetyfirst</loc></url>
+
+</urlset>
